@@ -1,0 +1,1 @@
+Objective-C stub for message `sd_setImageWithURL:completed:' type `v@:@@?' not precompiled. Make sure you properly link with the framework or library that defines this message.
